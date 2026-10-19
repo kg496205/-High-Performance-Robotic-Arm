@@ -1,0 +1,26 @@
+﻿#,Part / Item,Purpose / Function,Qty,Unit Cost (USD),Line Total (USD),Vendor (as listed),Purchase Link (URL),Link Note
+1,ESP32 NodeMCU 30-Pin CP2102,"Main controller for five stepper motors, gripper servo, and limit switches",1,4.52,4.52,Robocraze,https://robocraze.com/products/nodemcu-32-wifi-bluetooth-esp32-development-board30-pin,Direct product page
+2,NEMA17 4.2 kg·cm stepper motor,Joint/axis movement for the robotic arm,5,4.87,24.35,Robokits,https://robokits.co.in/motors/stepper-motor/stepper-motor-without-gearbox/nema17-4.2kgcm-stepper-motor-with-d-shaft-premium?cPath=364_366,Direct product page
+3,DRV8825 stepper driver,One driver per stepper motor; set current limit for each motor,5,1.49,7.45,Tectnomate,https://www.google.com/search?q=Tectnomate%20DRV8825%20stepper%20driver%20module%20India,Vendor/item search; exact page not verified
+4,SG90 9 g mini servo,Opens and closes the robotic gripper,1,1.03,1.03,Robokits India,https://www.google.com/search?q=site%3Arobokits.co.in%20SG90%209G%20mini%20servo%20180%20degree,Search link; choose standard positional servo for a gripper
+5,Industrial power supply 12 V 10 A 120 W,Powers the five stepper motor drivers,1,7.84,7.84,Robokits India,https://robokits.co.in/power-supply/industrial-power-supply/industrial-power-supply-12v-10a-120w-premium?cPath=2_71_667,Direct product page
+6,3D printer mechanical limit switch module,Home/end-position sensing; one switch per axis where needed,5,0.41,2.05,Robokits India,https://robokits.co.in/3d-printer/electronics/3d-printer-mechanical-limit-switch-module,Direct product page
+7,"GT2 timing belt, 2 mm pitch, 1 m",Belt transmission for selected motor-driven joints,2,0.48,0.96,Robokits India,https://robokits.co.in/3d-printer/accessories/gt2-timing-belt-2mm-pitch-1meter?cPath=67_550,Direct product page
+8,F688ZZ flanged shielded ball bearing,Supports rotating joints/arm platform,12,0.27,3.24,Robokits India,https://robokits.co.in/3d-printer/accessories/f688zz-flanged-shielded-deep-groove-ball-bearing,Direct product page
+9,"Aluminium flexible shaft coupling, 5 mm to 8 mm",Couples a motor shaft to a compatible 8 mm shaft,3,0.57,1.71,Robokits India,https://robokits.co.in/3d-printer/accessories/aluminium-flexible-shaft-coupling-5mm-to-8mm?cPath=448_601,Direct product page
+10,Design Plus DP 8 ft × 4 ft × 6 mm MR plywood,"Structural frame, arm links, joint plates, and base parts",1,9.65,9.65,IBO.com,https://www.ibo.com/design-plus-dp-8-ft-x-4-ft-6-mm-mr-plywood/p/E5ZRNQK01T,Direct product page; delivery availability depends on PIN code
+11,MPU6050 6-axis gyroscope/accelerometer module,Measures angular motion/orientation for feedback experiments,1,1.80,1.80,Robokits India,https://www.google.com/search?q=site%3Arobokits.co.in%20MPU6050%206-axis%20module,Vendor/item search; exact page not verified
+12,LM2596 adjustable DC-DC step-down module,Creates a lower DC voltage for low-voltage electronics; set output before connecting,1,0.47,0.47,Robokits India,https://www.google.com/search?q=site%3Arobokits.co.in%20LM2596%20adjustable%20step%20down%20module,Vendor/item search; exact listing may vary by version
+13,NEMA17 stepper holder/bracket mount,Mounts each stepper motor securely to the frame,5,1.55,7.75,Robokits India / mild steel,https://robokits.co.in/motors/dc-motor/mounting-clamps/nema17-stepper-holder-bracket-mount,Direct product page
+14,"GT2 synchronous timing pulley, 60T",Belt reduction at selected joints for increased torque,2,2.28,4.56,Robokits India,https://robokits.co.in/automation-control-cnc/gt-timing-wheels-pulley-and-belt/gt2-synchronous-wheel-timing-pulley-60t,Direct product page; confirm bore size matches shaft
+15,8 mm steel shaft/rod,Joint axles and mechanical supports,2,2.39,4.78,Inventosales.com,https://www.google.com/search?q=site%3Ainventosales.com%208mm%20steel%20shaft%20rod,Vendor/item search; exact page not verified
+16,M3/M4/M5 nut-bolt-washer assortment kit,"Fasteners for frame, motor mounts, joints, and mechanical parts",1,4.87,4.87,OnlyScrews,https://onlyscrews.in/products/hexallen-button-head-assorted-screw-pack-ss304,Direct assortment product page
+17,6-pin Relimate/JST connector set with wire,"Detachable wiring for sensors, switches, and low-voltage controls",5,0.13,0.65,Electron Components,https://www.electroncomponents.com/6pin-relimate-rmc-connector-creame-with-wire-male-female,Direct product page
+18,"GT2 20T pulley, 5 mm bore",Motor-side pulley for belt transmission,6,1.50,9.00,Makerbazar.in,https://www.google.com/search?q=site%3Amakerbazar.in%20GT2%2020T%205mm%20bore%20pulley,Vendor/item search; verify bore and belt width before buying
+19,20 cm mixed M-M / M-F / F-F jumper wires,Low-voltage signal/prototype connections,1,2.29,2.29,Amazon India,https://www.amazon.in/s?k=20cm%20jumper%20wires%20male%20male%20male%20female%20female%20female,Amazon search results; select matching wire set
+
+,Materials subtotal,,,,98.97
+,Tax & shipping (provided),,,,0.00
+,Grand total,,,,98.97
+,Tier 3 funding limit,,,,100.00
+,Budget remaining,,,,1.03
